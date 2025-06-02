@@ -1,4 +1,4 @@
-# Microsoft Teams Clone
+# Meetify - Microsoft Teams Clone
 This project was built as a part of [Microsoft Engage 2021](https://microsoft.acehacker.com/engage2021/)
 
 ## Table of Contents
